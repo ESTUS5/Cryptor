@@ -1,4 +1,4 @@
-# prog_crypt
+# Cryptor
 Simple encryptor using XOR or Ceasar cipher
 
 # crypt.cpp
